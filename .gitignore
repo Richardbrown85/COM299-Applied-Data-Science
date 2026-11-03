@@ -21,8 +21,11 @@ env/
 Thumbs.db
 
 # Data
-data/raw/
-data/processed/
+data/raw/*
+data/processed/*
+
+!data/raw/.gitkeep
+!data/processed/.gitkeep
 
 # Temporary / cache files
 *.tmp
