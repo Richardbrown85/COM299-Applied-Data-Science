@@ -10,7 +10,7 @@ SB4 – Insurance Analytics Team
 
 ## Current Status
 
-Project setup complete. Unit of analysis still to be confirmed.
+Project setup complete and GitHub repository connected. Unit of analysis still to be confirmed in Week 6.
 
 ## Project Structure
 
